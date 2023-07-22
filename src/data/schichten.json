@@ -1,0 +1,30 @@
+[
+    {
+        "title": "Spätschicht",
+        "start": "08:00",
+        "ende": "16:00",
+        "user": "Tim",
+        "date": "2023/07/21"
+    },
+    {
+        "title": "Spätschicht",
+        "start": "15:00",
+        "ende": "21:00",
+        "user": "Tim",
+        "date": "2023/07/21"
+    },
+    {
+        "title": "Spätschicht",        
+        "start": "15:00",
+        "ende": "21:00",
+        "user": "Tom",
+        "date": "2023/07/21"
+    },
+    {
+        "title": "Spätschicht",
+        "start": "15:00",
+        "ende": "21:00",
+        "user": "Tim",
+        "date": "2023/07/23"
+    }
+]
